@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "816626642216",
+    "firebase_url": "https://firedroid-34826.firebaseio.com",
+    "project_id": "firedroid-34826",
+    "storage_bucket": "firedroid-34826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816626642216:android:e7038c133bfee3ee",
+        "android_client_info": {
+          "package_name": "com.univ.malikb.firedroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816626642216-llhb4bpnnmuvssrobt0slaab8c16elbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFl8jKI7WShxwM7RHNuUrnIm7GHTM9Dc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

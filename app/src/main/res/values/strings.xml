@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireDroid</string>
+    <string name="welcome">Bienvenue sur le chat FireDroid !</string>
+    <string name="pseudo_hint">Pseudo</string>
+    <string name="login">Se Connecter</string>
+    <string name="ecrire">Ecrire votre message</string>
+    <string name="logout">Deconnexion</string>
+</resources>
